@@ -1,0 +1,16 @@
+const [marks ,setMarks]=useState({
+
+tamil:0;
+english:0;
+maths:0
+})
+
+
+
+
+<TextInput onChangeText={(e)=> setMarks({...marks,tamil:e)}
+
+
+
+
+https://youtu.be/WlNjBmKKpR4
